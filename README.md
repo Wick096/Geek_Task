@@ -1,2 +1,4 @@
 # Geek_Task
-Projeto desenvolvido em html , css e algumas funções em Js, o backend foi utilizado Php
+Projeto desenvolvido em html , css e algumas funções em Js, no backend foi utilizado Php
+
+Link de Demonstração: 
